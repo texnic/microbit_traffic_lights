@@ -1,6 +1,9 @@
 
 > Open this page at [https://texnic.github.io/microbit_traffic_lights/](https://texnic.github.io/microbit_traffic_lights/)
 
+## Circuit
+Connect green, yellow and red LEDs, via 1 kOhm resistor each, to Micro:bit ground and pins 0, 1, 2 respectively.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
